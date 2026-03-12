@@ -34,7 +34,7 @@ The result is a modular, practical audio setup tailored specifically for a small
 
 ## 🔹 Rev 1
 
-- Tracking versions.
+- Initial release.
 
 ## 🔹 General Notes
 
@@ -44,3 +44,9 @@ The result is a modular, practical audio setup tailored specifically for a small
 - Additional daisy-chained speakers are wired in series to prevent overloading the TDA2003 amplifiers.
 - If speakers are connected in parallel, the minimum impedance is determined by the internal 4 Ω speaker.
 - The TDA2003 can deliver up to 3.5 A of repetitive peak output current and up to 4.5 A of non-repetitive peak current. The fuse should be sized accordingly.
+
+##
+
+> Educational Use Notice: This project is provided for educational and learning purposes only. You are welcome to read, study, and experiment
+> with this software and/or hardware. It is not intended for commercial use. This software and/or hardware is provided "as is", without warranty
+> of any kind. The author assumes no responsibility for any damages or issues resulting from its use.
