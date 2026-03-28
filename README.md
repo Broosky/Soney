@@ -36,7 +36,7 @@ The result is a modular, practical audio setup tailored specifically for a small
 
 - Initial release.
 
-## 🔹 General Notes
+## 🔹 Features
 
 - Multiway 6×9 speakers were used to achieve decent sound while minimizing space.
 - Black anodized rods on the back panel provide convenient cable-wrapping points.
